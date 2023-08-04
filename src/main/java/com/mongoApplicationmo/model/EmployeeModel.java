@@ -13,6 +13,7 @@ public class EmployeeModel {
 	private String name;
 	private int age;
 	private String email;
+	String address;
 	
 	
 	
